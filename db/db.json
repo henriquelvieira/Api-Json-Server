@@ -8,41 +8,7 @@
       "link_extra": {
         "text": "Formação de Front End na Alura",
         "url": "https://www.alura.com.br/cursos-online-front-end"
-      },
-      "videos": [
-        {
-          "id": 1,
-          "titulo": "Formulários em React com Engenharia Reversa no Formik",
-          "url": "https://www.youtube.com/watch?v=cMq6k7ymv2s&t=1s"
-        },
-        {
-          "id": 2,
-          "titulo": "Como fazer validações de formulário com React?",
-          "url": "https://www.youtube.com/watch?v=-nYNd6EuZHU"
-        },
-        {
-          "id": 3,
-          "titulo": "Speedrun: Do Zero ao React | Como fazer um React e aprender a ideia do Virtual DOM na prática",
-          "url": "https://www.youtube.com/watch?v=5MzOCxSWrrc"
-        },
-        {
-          "id": 4,
-          "titulo": "Gerando rotas estáticas e dinâmicas com Nextjs feat. Static Paths e Dynamic Routes | Pokedex #02",
-          "url": "https://www.youtube.com/watch?v=x5Hs8kXlktM"
-        },
-        {
-          "id": 5,
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
-        },
-        {
-          "id": 6,
-          "titulo": "React com CMS via Google Spreadsheets e Nextjs | Top Jogos favoritos DevSoutinho",
-          "url": "https://www.youtube.com/watch?v=5t2gq3xJZ9o"
-        }
-
-        
-      ]
+      }
     },
     {
       "id": 2,
@@ -51,24 +17,7 @@
       "link_extra": {
         "text": "",
         "url": "https://www.alura.com.br/cursos-online-programacao"
-      },
-      "videos": [
-        {
-          "id": 1,
-          "titulo": "Node.js // Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vYekSMBCCiM"
-        },
-        {
-          "id": 2,
-          "titulo": "O que é Node JS?",
-          "url": "https://www.youtube.com/watch?v=GKR6uSvEj8w"
-        },
-        {
-          "id": 3,
-          "titulo": "Apps em NODE.JS rodando no VPS da HostGator (MUITO FÁCIL)",
-          "url": "https://www.youtube.com/watch?v=qP2QHfWr35U&t=301s"
-        }
-      ]
+      }
     },
     {
       "id": 3,
@@ -77,70 +26,16 @@
       "link_extra": {
         "text": "",
         "url": "https://www.alura.com.br/formacao-data-science"
-      },
-      "videos": [
-        {
-          "id": 1,
-          "titulo": "Eu quero saber se você consegue responder essas 3 perguntas de JavaScript!",
-          "url": "https://www.youtube.com/watch?v=QVrrqgDhhu4"
-        },
-
-        {
-          "id": 2,
-          "titulo": "O futuro do JavaScript é programar dessa forma aqui!",
-          "url": "https://www.youtube.com/watch?v=jA5XX7Fd8Ys"
-        },
-        {
-          "id": 3,
-          "titulo": "Arrow Function do JavaScript, simples e feliz! #02",
-          "url": "https://www.youtube.com/watch?v=3EkS9-P3cIM"
-        },
-        {
-          "id": 4,
-          "titulo": "Mais 3 Formas de Como Usar Arrays no JavaScript que Você Precisa Conhecer // Mão no Código #32",
-          "url": "https://www.youtube.com/watch?v=O9wvnvyltgs"
-        },
-        {
-          "id": 5,
-          "titulo": "Desvendando DEFINITIVAMENTE as Promises em JavaScript // Mão no Código #21",
-          "url": "https://www.youtube.com/watch?v=nRJhc6vXyK4"
-        }  
-
-      ]
+      }
     },
     {
       "id": 4,
       "titulo": "I.A",
       "cor": "orange",
-      "videos": [
-        {
-          "id": 1,
-          "titulo": "Agora Aquela I.A. Foi Longe Demais (e vai mudar o jeito que você trabalha)",
-          "url": "https://www.youtube.com/watch?v=pbVwH8o837A"
-        },
-        {
-          "id": 2,
-          "titulo": "Lembra Daquela I.A. Que Programava Sozinha? Então...",
-          "url": "https://www.youtube.com/watch?v=Cr89Oz0TWQM"
-        },
-        {
-          "id": 3,
-          "titulo": "E Agora? Nova Inteligência Artificial Começou a Programar Sozinha",
-          "url": "https://www.youtube.com/watch?v=KdgKQoq1jk0"
-        },
-        {
-          "id": 4,
-          "titulo": "Eu testei uma I.A. que quer substituir você!",
-          "url": "https://www.youtube.com/watch?v=-uUTrEIeOHo"
-        },
-        {
-          "id": 5,
-          "titulo": "Desistimos dos Carros Voadores? Como serão os Veículos em 2030?",
-          "url": "https://www.youtube.com/watch?v=5lTo30Gm9w4"
-        }
-
-        
-      ]
+      "link_extra": {
+        "text": "",
+        "url": ""
+      }
     },
     {
       "id": 5,
@@ -149,34 +44,166 @@
       "link_extra": {
         "text": "Curso sobre aprendizado na Alura",
         "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
-      },
-      "videos": [
-        {
-          "id": 1,
-          "titulo": "Como estudar melhor?",
-          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
-        },
-        {
-          "id": 2,
-          "titulo": "Faculdade",
-          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
-        },
-        {
-          "id": 3,
-          "titulo": "Frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
-        },
-        {
-          "id": 4,
-          "titulo": "A mágica do Aprendizado",
-          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
-        },
-        {
-          "id": 5,
-          "titulo": "Como aprender a programar?",
-          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
-        }
-      ]
+      }
     }
+  ],
+  "videos":[
+
+    {
+      "id": 1,
+      "categoriaId": 1,
+      "titulo": "Formulários em React com Engenharia Reversa no Formik",
+      "url": "https://www.youtube.com/watch?v=cMq6k7ymv2s&t=1s"
+    },
+    {
+      "id": 2,
+      "categoriaId": 1,
+      "titulo": "Como fazer validações de formulário com React?",
+      "url": "https://www.youtube.com/watch?v=-nYNd6EuZHU"
+    },
+    {
+      "id": 3,
+      "categoriaId": 1,
+      "titulo": "Speedrun: Do Zero ao React | Como fazer um React e aprender a ideia do Virtual DOM na prática",
+      "url": "https://www.youtube.com/watch?v=5MzOCxSWrrc"
+    },
+    {
+      "id": 4,
+      "categoriaId": 1,
+      "titulo": "Gerando rotas estáticas e dinâmicas com Nextjs feat. Static Paths e Dynamic Routes | Pokedex #02",
+      "url": "https://www.youtube.com/watch?v=x5Hs8kXlktM"
+    },
+    {
+      "id": 5,
+      "categoriaId": 1,
+      "titulo": "SEO com React",
+      "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+    },
+    {
+      "id": 6,
+      "categoriaId": 1,
+      "titulo": "React com CMS via Google Spreadsheets e Nextjs | Top Jogos favoritos DevSoutinho",
+      "url": "https://www.youtube.com/watch?v=5t2gq3xJZ9o"
+    },
+    {
+      "id": 7,
+      "categoriaId": 2,
+      "titulo": "Node.js // Dicionário do Programador",
+      "url": "https://www.youtube.com/watch?v=vYekSMBCCiM"
+    },
+    {
+      "id": 8,
+      "categoriaId": 2,
+      "titulo": "O que é Node JS?",
+      "url": "https://www.youtube.com/watch?v=GKR6uSvEj8w"
+    },
+    {
+      "id": 9,
+      "categoriaId": 2,
+      "titulo": "Apps em NODE.JS rodando no VPS da HostGator (MUITO FÁCIL)",
+      "url": "https://www.youtube.com/watch?v=qP2QHfWr35U&t=301s"
+    },
+    {
+      "id": 10,
+      "categoriaId": 3,
+      "titulo": "Eu quero saber se você consegue responder essas 3 perguntas de JavaScript!",
+      "url": "https://www.youtube.com/watch?v=QVrrqgDhhu4"
+    },
+
+    {
+      "id": 11,
+      "categoriaId": 3,
+      "titulo": "O futuro do JavaScript é programar dessa forma aqui!",
+      "url": "https://www.youtube.com/watch?v=jA5XX7Fd8Ys"
+    },
+    {
+      "id": 12,
+      "categoriaId": 3,
+      "titulo": "Arrow Function do JavaScript, simples e feliz! #02",
+      "url": "https://www.youtube.com/watch?v=3EkS9-P3cIM"
+    },
+    {
+      "id": 13,
+      "categoriaId": 3,
+      "titulo": "Mais 3 Formas de Como Usar Arrays no JavaScript que Você Precisa Conhecer // Mão no Código #32",
+      "url": "https://www.youtube.com/watch?v=O9wvnvyltgs"
+    },
+    {
+      "id": 14,
+      "categoriaId": 3,
+      "titulo": "Desvendando DEFINITIVAMENTE as Promises em JavaScript // Mão no Código #21",
+      "url": "https://www.youtube.com/watch?v=nRJhc6vXyK4"
+    },
+    {
+      "id": 15,
+      "categoriaId": 4,
+      "titulo": "Agora Aquela I.A. Foi Longe Demais (e vai mudar o jeito que você trabalha)",
+      "url": "https://www.youtube.com/watch?v=pbVwH8o837A"
+    },
+    {
+      "id": 16,
+      "categoriaId": 4,
+      "titulo": "Lembra Daquela I.A. Que Programava Sozinha? Então...",
+      "url": "https://www.youtube.com/watch?v=Cr89Oz0TWQM"
+    },
+    {
+      "id": 17,
+      "categoriaId": 4,
+      "titulo": "E Agora? Nova Inteligência Artificial Começou a Programar Sozinha",
+      "url": "https://www.youtube.com/watch?v=KdgKQoq1jk0"
+    },
+    {
+      "id": 18,
+      "categoriaId": 4,
+      "titulo": "Eu testei uma I.A. que quer substituir você!",
+      "url": "https://www.youtube.com/watch?v=-uUTrEIeOHo"
+    },
+    {
+      "id": 19,
+      "categoriaId": 4,
+      "titulo": "Desistimos dos Carros Voadores? Como serão os Veículos em 2030?",
+      "url": "https://www.youtube.com/watch?v=5lTo30Gm9w4"
+    },
+    {
+      "id": 20,
+      "categoriaId": 5,
+      "titulo": "Como estudar melhor?",
+      "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+    },
+    {
+      "id": 21,
+      "categoriaId": 5,
+      "titulo": "Faculdade",
+      "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+    },
+    {
+      "id": 22,
+      "categoriaId": 5,
+      "titulo": "Frameworks",
+      "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+    },
+    {
+      "id": 23,
+      "categoriaId": 5,
+      "titulo": "A mágica do Aprendizado",
+      "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+    },
+    {
+      "id": 24,
+      "categoriaId": 5,
+      "titulo": "Como aprender a programar?",
+      "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+    }   
+
+    
+
+
+
+
   ]
+
+
+
+
+  
 }
