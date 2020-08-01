@@ -47,8 +47,7 @@
       }
     }
   ],
-  "videos":[
-
+  "videos": [
     {
       "id": 1,
       "categoriaId": 1,
@@ -109,7 +108,6 @@
       "titulo": "Eu quero saber se você consegue responder essas 3 perguntas de JavaScript!",
       "url": "https://www.youtube.com/watch?v=QVrrqgDhhu4"
     },
-
     {
       "id": 11,
       "categoriaId": 3,
@@ -193,17 +191,12 @@
       "categoriaId": 5,
       "titulo": "Como aprender a programar?",
       "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
-    }   
-
-    
-
-
-
-
+    },
+    {
+      "titulo": "Video padrão",
+      "url": "https://www.youtube.com/watch?v=jOAU81jdi-c",
+      "categoriaId": 1,
+      "id": 25
+    }
   ]
-
-
-
-
-  
 }
